@@ -1,6 +1,6 @@
 # Pokémon Battle App
-Pokemon app look Like 
-![home](./assets/image1.png)
+
+
 
 ## Overview
 The **Pokémon Battle App** is a Flutter-based mobile application that allows users to compare two Pokémon by fetching their details from the Pokémon TCG API and determining the winner based on their HP.
@@ -60,7 +60,7 @@ dependencies:
 - If both Pokémon are not selected before battling, an alert is shown.
 
 ## Screenshots
- 
+ ![](./images/image.png)
 
   
 
